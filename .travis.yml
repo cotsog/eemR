@@ -1,4 +1,4 @@
-# Sample .travis.yml for R projects
+# do eet
 
 language: r
 warnings_are_errors: true
